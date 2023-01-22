@@ -32,4 +32,4 @@ O Habits é um app para ajudar a rastrear os hábitos. Registre o dia e preencha
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat
